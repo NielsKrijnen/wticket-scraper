@@ -1,0 +1,17 @@
+{
+  "name": "wticket-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsup"
+  },
+  "dependencies": {
+    "puppeteer": "^24.9.0"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}

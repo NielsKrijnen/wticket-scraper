@@ -1,0 +1,1 @@
+export { createWTicketScraper } from "./client"
